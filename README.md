@@ -11,7 +11,6 @@ Doğuş Teknoloji bünyesinde Bilgisayar Mühendisi olarak çalışıyor, aynı 
 - ⚡ **Uzmanlık:** C#, Python ve borsa API entegrasyonları (Binance, OKX).
 - 🎓 **Eğitim:** MBA derecesine sahibim ve Professional Scrum Master (PSM) sertifikalıyım.
 - 📸 **Hobi:** Mimari ve spor fotoğrafçılığı ile ilgileniyorum (Lightroom tutkunuyum).
-- 🎯 **Hedef:** B2 seviyesi İngilizce yetkinliği ve daha gelişmiş trade algoritmaları.
 
 ## 🌐 Sosyal Medya & İletişim:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertan-%C3%B6zdemir-psm-mba/) 
